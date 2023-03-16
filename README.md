@@ -22,7 +22,7 @@ I am a Developer working on Web Development.<br>Connect me on LinkedIn and Send 
 [![](https://visitcount.itsvg.in/api?id=poulamicode77&icon=7&color=5)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/poulami77?new=1) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/poulami77) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
