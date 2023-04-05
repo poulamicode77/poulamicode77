@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Developer working on Web Development.<br>Connect me on LinkedIn and Send me an Email.<br>
+I am a Developer doing my best to learn Development.<br>Connect me on LinkedIn and Send me an Email.<br>
 
 
 ## 🌐 Socials:
