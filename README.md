@@ -18,7 +18,7 @@ I am a Developer, doing my best in writing clean code.<br>Connect me on LinkedIn
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+### View Count
 [![](https://visitcount.itsvg.in/api?id=poulamicode77&icon=7&color=5)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
